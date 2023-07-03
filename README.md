@@ -248,23 +248,3 @@ python demo.py --net vgg16 \
 ```
 The demo is stopped by clicking the image window and then pressing the 'q' key.
 
-## Authorship
-
-This project is equally contributed by [Jianwei Yang](https://github.com/jwyang) and [Jiasen Lu](https://github.com/jiasenlu), and many others (thanks to them!).
-
-## Citation
-
-    @article{jjfaster2rcnn,
-        Author = {Jianwei Yang and Jiasen Lu and Dhruv Batra and Devi Parikh},
-        Title = {A Faster Pytorch Implementation of Faster R-CNN},
-        Journal = {https://github.com/jwyang/faster-rcnn.pytorch},
-        Year = {2017}
-    }
-
-    @inproceedings{renNIPS15fasterrcnn,
-        Author = {Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
-        Title = {Faster {R-CNN}: Towards Real-Time Object Detection
-                 with Region Proposal Networks},
-        Booktitle = {Advances in Neural Information Processing Systems ({NIPS})},
-        Year = {2015}
-    }
